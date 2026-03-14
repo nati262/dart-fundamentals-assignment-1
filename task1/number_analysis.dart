@@ -1,4 +1,4 @@
-// Task 1: Number Analysis App
+
 // Name: Markos Tigistu
 
 // This function finds and returns the largest number in the list
